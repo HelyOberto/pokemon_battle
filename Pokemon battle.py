@@ -464,6 +464,7 @@ while True:
                 player2[4] = input("Seleccione el movimiento que quiera usar por su numero ")
                 spc()
             
+                HEly JOSUE JASJDKALSJD:AKSJDAKSJLDAKSJD
             
                 while (player2[4] != "1" and player2[4] != "2" and player2[4] != "3" and player2[4] != "4") or (player2[4] == "3" and player2[6] == player2[5]):
                     if player2[4] == "3" and player2[6] == player2[5]:
