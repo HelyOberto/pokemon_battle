@@ -1,7 +1,7 @@
 import random
 import time
 
-## Verificador de opcion universal
+## Verificador de opciones universales
 
 def notX(message, list, number):
     inp = input(message)
