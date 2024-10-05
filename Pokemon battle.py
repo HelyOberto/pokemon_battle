@@ -423,7 +423,7 @@ while True:
     ## Dificultad
     
     difficulty = 2
-    difficultiesX = ["", 0.5, 1, 1.5, 2, 3]
+    difficultiesX = ["", 0.5, 1, 1.5, 2, 3, 10]
     difficultyInfo = ["1. Facil: El enemigo empieza con la mitad de de vida que tu", "2. Normal: Los 2 empiezan con la misma vida", "3. Dificil: Tu rival empieza con %50 de vida mas", "4. Muy dificil: Tu rival empieza con el doble de vida", "5. Insano: Tu rival tiene 3 veces mas vida que tu"]
     
     ## Variables del jugador
