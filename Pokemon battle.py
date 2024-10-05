@@ -133,7 +133,9 @@ def pokemonsInfo(info):
             print("Escudo de hojas: Gife se cubre de recibir el 60% daño duarante ese turno  ")
             spc()
             ask()
-    
+        case _:
+            print("No hay informacion disponible de ese pokemon")
+            ask()
     
 while True:
     
